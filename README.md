@@ -1,5 +1,10 @@
 # LWC Boilerplate Example
 
+I deployed a sample LWR app on render.com, Render.com is Heroku alternative, platform as a service.
+It also has plans for free tier.
+
+Checkout the live app on render.com - https://lwr-on-render-example.onrender.com/
+
 The **LWC Boilerplate** example contains the minimum code needed to get a simple Single Page Application (SPA) on LWR running.
 
 ## Project Setup
